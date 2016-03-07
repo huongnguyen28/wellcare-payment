@@ -1,0 +1,14 @@
+.bank > img {
+    width: 66px;
+    height: 45px;
+}
+
+.btn-payment {
+    width: 50%;
+}
+
+@media (max-width:  768px) {
+}
+a img:hover { 
+    border-color: blue !important;
+}
